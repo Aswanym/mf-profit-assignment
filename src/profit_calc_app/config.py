@@ -1,0 +1,1 @@
+MF_DATA_BASE_URL = f"https://api.mfapi.in/mf/"
